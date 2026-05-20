@@ -1,1 +1,1 @@
-"const DB = "main-version";" 
+'const DB = "main-version";' 
